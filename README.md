@@ -4,11 +4,11 @@ A simple and beautiful Kanban board built with **React** and **TypeScript**. It 
 
 ## 🚀 Features
 
-✅ **Add new tasks to any column "To Do" | "In Progress" | "Done"** 
-✏️ **Remove tasks** 
-🔁 **Drag and drop tasks between columns** 
-💾 **Saves tasks automatically in localStorage** 
-🎨 **Responsive and modern UI using Tailwind CSS** 
+- ✅ **Add new tasks to any column "To Do" | "In Progress" | "Done"** 
+- ✏️ **Remove tasks** 
+- 🔁 **Drag and drop tasks between columns** 
+- 💾 **Saves tasks automatically in localStorage** 
+- 🎨 **Responsive and modern UI using Tailwind CSS** 
 
 ## 🛠️ Tech Stack
 
